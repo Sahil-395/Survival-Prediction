@@ -1,0 +1,10 @@
+# Recommended: Python 3.11 or newer
+# Keep scikit-learn at the same version used to train best_model.joblib.
+pandas==2.2.3
+numpy==2.3.5
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+joblib==1.5.3
+streamlit>=1.40,<2.0
+jupyter>=1.0,<2.0
